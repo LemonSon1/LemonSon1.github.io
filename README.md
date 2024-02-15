@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @LemonSon1
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-
-<!---
-LemonSon1/LemonSon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am a new programmer out there creating a simple game called KEMER inspired from the Discord minigame bot DANK MEMER.
+Please help me in any way you can, even from giving me certain tips, images to use to giving me bits of code and teaching me how they work.
+I hope, You will probably help me.
